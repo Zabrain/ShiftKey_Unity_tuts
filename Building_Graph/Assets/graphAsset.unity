@@ -221,6 +221,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9560f03d0b892342a5194ef5162b05b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  resolution: 21
   pointPrefab: {fileID: 4291829418865400, guid: c46125945b550f94faf493776000363e,
     type: 2}
 --- !u!4 &571201471
