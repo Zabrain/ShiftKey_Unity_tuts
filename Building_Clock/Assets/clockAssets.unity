@@ -1201,6 +1201,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoursTransform: {fileID: 1536371136}
+  minutesTransform: {fileID: 1231016715}
+  secondsTransform: {fileID: 215256362}
+  continuous: 0
 --- !u!1 &1386593760
 GameObject:
   m_ObjectHideFlags: 0
